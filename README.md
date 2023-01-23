@@ -10,7 +10,7 @@ To deploy this PocketBase Docker file to Render, you will need to do the followi
   ```
   3. Paste this link on the `Public Git repository` section and click continue.
   
-  4. Give a Project name keep the settings as it is and link on 'Create Web Service`
+  4. Give a Project name keep the settings as it is and click on 'Create Web Service`
   
   5. Wait till the Render Do its Magic ✨
   
