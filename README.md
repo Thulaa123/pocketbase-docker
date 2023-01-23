@@ -1,4 +1,4 @@
-# pocketbase-docker
+# PocketBase Dockerfile
 From this repo your Pocketbase installation will be easy with any Docker daemon supported server this Docker file will install the necessary environment on the server
 To deploy this PocketBase Docker file to Render, you will need to do the following:
 
