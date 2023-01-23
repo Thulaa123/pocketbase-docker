@@ -13,7 +13,7 @@ RUN unzip /tmp/pb.zip -d /pb/
 
 EXPOSE 8080
 
-RUN echo "All actions are sucessfull completed ✅ 🛰 hang in there while we step some things you need 🚀 ✨"
+RUN echo "All actions are sucessfull completed ✅ 🛰 hang in there wi"
 
 # start PocketBase
 CMD ["/pb/pocketbase", "serve", "--http=0.0.0.0:8080"]
