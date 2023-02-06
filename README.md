@@ -25,4 +25,4 @@ https://github.com/Thulaa123/pocketbase-docker.git
 
 9. For fly.io deployment please follow this link `https://dev.to/marselit/build-and-deploy-a-pocketbase-project-oi4`
 
-Check readme
+Check readme fork
