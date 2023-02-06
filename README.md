@@ -24,3 +24,5 @@ https://github.com/Thulaa123/pocketbase-docker.git
 8. Once the service is deployed, you will be able to access it via the URL provided by Render 🚀.
 
 9. For fly.io deployment please follow this link `https://dev.to/marselit/build-and-deploy-a-pocketbase-project-oi4`
+
+Check readme
